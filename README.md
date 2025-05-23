@@ -1,5 +1,8 @@
 # Australia-Primary-Secondary-Education-data
 Australia-Primary-Secondary-Education data Analysis
+Link: https://app.powerbi.com/groups/me/reports/c231066d-2eb3-4d28-aa39-a12077ac86d6/565590584b80205a012b?experience=power-bi
+
+
 # 📊 Executive Summary: National Primary and Secondary School Data Analysis (2006–2024)
 
 ---
