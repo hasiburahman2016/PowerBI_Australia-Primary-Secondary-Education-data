@@ -8,19 +8,19 @@ Link: https://app.powerbi.com/groups/me/reports/c231066d-2eb3-4d28-aa39-a12077ac
 
 ---
 
-## 🧭 Overview
+## Overview
 
 ![Overview Image](https://github.com/hasiburahman2016/Australia-Primary-Secondary-Education-data/blob/main/Images/Overview.jpg)
 
 ---
 
-## 1. 📈 Trends Over Time by State (2006–2024)
+## 1. Trends Over Time by State (2006–2024)
 - All states show a steady upward trend in student count.
 - NSW remains consistently the highest and growing.
 - VIC and QLD show solid growth, narrowing the gap with NSW.
 - NT, ACT, TAS remain flat — consistent with smaller populations.
 
-> 📌 This suggests consistent national growth in student population over ~2 decades and long-term stability in education demand.
+> This suggests consistent national growth in student population over ~2 decades and long-term stability in education demand.
 
 **Other Observations:**
 - 2010–2013: Slower growth in all sectors — possibly due to policy or economic factors.
@@ -28,7 +28,7 @@ Link: https://app.powerbi.com/groups/me/reports/c231066d-2eb3-4d28-aa39-a12077ac
 
 ---
 
-## 2. 📊 Steady Growth Over Time (2006–2024)
+## 2. Steady Growth Over Time (2006–2024)
 - Total student population grew from ~3.39M (2006) to ~4.13M (2024) — ~22% increase.
 - Growth is visible across all three sectors:
   - **Government:** 2.27M → 2.61M
@@ -37,7 +37,7 @@ Link: https://app.powerbi.com/groups/me/reports/c231066d-2eb3-4d28-aa39-a12077ac
 
 ---
 
-## 3. 🥇 NSW Leads in Student Enrollment
+## 3. NSW Leads in Student Enrollment
 - NSW has the highest student count at **22M**, followed by:
   - VIC – 18M
   - QLD – 15M
@@ -45,7 +45,7 @@ Link: https://app.powerbi.com/groups/me/reports/c231066d-2eb3-4d28-aa39-a12077ac
 
 ---
 
-## 4. 🏫 Primary vs Secondary School Distribution
+## 4. Primary vs Secondary School Distribution
 - Across all states, **primary school enrollment is higher** than secondary.
 - Example: NSW has ~12.6M primary vs ~9.8M secondary students.
 - ➕ Implies a growing base of younger students that will flow into secondary soon.
@@ -76,14 +76,14 @@ Link: https://app.powerbi.com/groups/me/reports/c231066d-2eb3-4d28-aa39-a12077ac
 
 ---
 
-## 👨‍👩‍👧 Student Gender Breakdown
+##  Student Gender Breakdown
 
 ![Student Gender Image](https://github.com/hasiburahman2016/Australia-Primary-Secondary-Education-data/blob/main/Images/Student%20Gender.jpg)
 
 ### 9. Gender Distribution
 - Male Students: **36.40M**
 - Female Students: **34.90M**
-- ➕ Gender distribution is fairly balanced overall.
+-  Gender distribution is fairly balanced overall.
 
 ### 10. School Level Breakdown by Gender
 - **Primary School:**
@@ -92,11 +92,11 @@ Link: https://app.powerbi.com/groups/me/reports/c231066d-2eb3-4d28-aa39-a12077ac
 - **Secondary School:**
   - Females: 11.5M
   - Males: 15.5M
-- 📌 Insight: There's a wider gender gap in secondary school — with ~4M more male students than females.
+-  Insight: There's a wider gender gap in secondary school — with ~4M more male students than females.
 
 ---
 
-## 🧑‍🎓 Enrollment Type & Equity
+##  Enrollment Type & Equity
 
 ![Student Image](https://github.com/hasiburahman2016/Australia-Primary-Secondary-Education-data/blob/main/Images/Students.jpg)
 
@@ -112,7 +112,7 @@ Link: https://app.powerbi.com/groups/me/reports/c231066d-2eb3-4d28-aa39-a12077ac
 
 ---
 
-## 👩‍🏫 Staffing Overview
+##  Staffing Overview
 
 ![Staff Image](https://github.com/hasiburahman2016/Australia-Primary-Secondary-Education-data/blob/main/Images/Staff.jpg)
 
@@ -129,4 +129,4 @@ Link: https://app.powerbi.com/groups/me/reports/c231066d-2eb3-4d28-aa39-a12077ac
 ### 15. Staff by Gender
 - Female staff: ~5.5M (**73.6%**)
 - Male staff: ~2M (**26.4%**)
-- ➕ Insight: Education workforce is heavily female-dominated
+-  Insight: Education workforce is heavily female-dominated
