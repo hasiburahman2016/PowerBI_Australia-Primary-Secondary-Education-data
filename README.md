@@ -7,6 +7,13 @@ Link: https://app.powerbi.com/groups/me/reports/c231066d-2eb3-4d28-aa39-a12077ac
 # Executive Summary: National Primary and Secondary School Data Analysis (2006–2024)
 
 ---
+## Key Highlights
+
+- National student population grew by approximately **22%** from 2006 to 2024  
+- **Government schools** dominate with over **65%** of total enrollments  
+- **Independent schools** recorded the highest percentage growth (**56%**)  
+- Gender distribution is balanced overall, but **secondary school shows a male skew**  
+- **Student–staff ratio is ~9.5:1**, with a predominantly female workforce  
 
 ## Overview
 
@@ -14,85 +21,59 @@ Link: https://app.powerbi.com/groups/me/reports/c231066d-2eb3-4d28-aa39-a12077ac
 
 ---
 
-## 1. Trends Over Time by State (2006–2024)
-- All states show a steady upward trend in student count.
-- NSW remains consistently the highest and growing.
-- VIC and QLD show solid growth, narrowing the gap with NSW.
-- NT, ACT, TAS remain flat — consistent with smaller populations.
+## 1. Student Enrollment Trends by State
 
-> This suggests consistent national growth in student population over ~2 decades and long-term stability in education demand.
-
-**Other Observations:**
-- 2010–2013: Slower growth in all sectors — possibly due to policy or economic factors.
-- Post-2020: Clear growth across all sectors, despite potential pandemic impact.
-
----
-
-## 2. Steady Growth Over Time (2006–2024)
-- Total student population grew from ~3.39M (2006) to ~4.13M (2024) — ~22% increase.
-- Growth is visible across all three sectors:
-  - **Government:** 2.27M → 2.61M
-  - **Catholic:** 679K → 820K
-  - **Independent:** 442K → 692K
-
----
-
-## 3. NSW Leads in Student Enrollment
-- NSW has the highest student count at **22M**, followed by:
-  - VIC – 18M
-  - QLD – 15M
-- These 3 states make up the majority of Australia's school enrollment.
-
----
-
-## 4. Primary vs Secondary School Distribution
-- Across all states, **primary school enrollment is higher** than secondary.
-- Example: NSW has ~12.6M primary vs ~9.8M secondary students.
-- Implies a growing base of younger students that will flow into secondary soon.
-
----
+- All states show steady growth over time  
+- **NSW** consistently leads in total enrollment  
+- **VIC** and **QLD** show strong growth, narrowing the gap with NSW  
+- **NT, ACT, TAS** remain relatively flat  
+- **2010–2013**: Slower growth across all states  
+- **Post-2020**: Recovery and continued growth despite pandemic conditions 
 
 ## School Sector Analysis
 
 ![School Sector Image](https://github.com/hasiburahman2016/Australia-Primary-Secondary-Education-data/blob/main/Images/School%20Sector.jpg)
 
-### 5. Sector-wise Distribution
-- Government sector dominates with **47M students (~65.33%)**
-- Catholic schools: **14M (~20%)**
-- Independent schools: **10M (~14.64%)**
-- Clear reliance on public schooling, with minor but steady private sector presence.
+## 2. Sector-Wise Enrollment Trends
 
-### 6. Government Sector Dominates
-- Consistently contributes ~70%+ of total students every year.
-- Grew from **2.27M (2006)** to **2.62M (2024)**
+| Sector      | 2006   | 2024   | Growth   | 2024 Share |
+|-------------|--------|--------|----------|-------------|
+| Government  | 2.27M  | 2.62M  | +15.4%   | ~65.3%      |
+| Catholic    | 679K   | 820K   | +20.7%   | ~20%        |
+| Independent | 442K   | 692K   | +56.5%   | ~14.6%      |
 
-### 7. Catholic Sector Growth
-- Increased from **679K** to **820K** between 2006–2024
-- Share of total students has remained stable at ~19–20%
+- Government sector remains largest by volume and share  
+- Independent sector shows highest percentage growth  
+- Catholic school share is stable at ~19–20%  
 
-### 8. Independent Sector Gains Slight Share
-- Increased from **442K** to **692K** (~56% growth)
-- Now represents nearly **17%** of total students (was ~13% in 2006)
+---
 
+## 3. Primary vs Secondary Distribution
+
+- Primary school enrollments are consistently higher  
+- Example (NSW):  
+  - Primary: 12.6M  
+  - Secondary: 9.8M  
+- Implies a growing base of younger students entering the system  
 ---
 
 ##  Student Gender Breakdown
 
 ![Student Gender Image](https://github.com/hasiburahman2016/Australia-Primary-Secondary-Education-data/blob/main/Images/Student%20Gender.jpg)
 
-### 9. Gender Distribution
-- Male Students: **36.40M**
-- Female Students: **34.90M**
--  Gender distribution is fairly balanced overall.
+## 4. Gender Distribution
 
-### 10. School Level Breakdown by Gender
-- **Primary School:**
-  - Females: 19.8M
-  - Males: 20.3M
-- **Secondary School:**
-  - Females: 11.5M
-  - Males: 15.5M
--  Insight: There's a wider gender gap in secondary school — with ~4M more male students than females.
+- **Total Males**: 36.4M  
+- **Total Females**: 34.9M  
+- **Primary School**:  
+  - Males: 20.3M  
+  - Females: 19.8M  
+- **Secondary School**:  
+  - Males: 15.5M  
+  - Females: 11.5M  
+- A clear gender gap exists at the secondary level
+
+  
 
 ---
 
@@ -100,15 +81,18 @@ Link: https://app.powerbi.com/groups/me/reports/c231066d-2eb3-4d28-aa39-a12077ac
 
 ![Student Image](https://github.com/hasiburahman2016/Australia-Primary-Secondary-Education-data/blob/main/Images/Students.jpg)
 
-### 11. Full-time vs Part-time Students
-- Full-time students: **71M**
-- Part-time students: **338K**
-- The education system is overwhelmingly full-time focused (>99% of enrollments)
+## 5. Full-Time vs Part-Time Students
 
-### 12. Indigenous vs Non-Indigenous Students
-- Non-Indigenous: **67M**
-- Aboriginal: **4M**
-- Aboriginal students represent **~5.6%** of the total student population
+- **Full-Time**: 71M  
+- **Part-Time**: 338K  
+- Over **99% of students** are enrolled full-time  
+
+---
+
+## 6. Indigenous vs Non-Indigenous Students
+
+- **Aboriginal Students**: 4M (~5.6%)  
+- **Non-Indigenous Students**: 67M  
 
 ---
 
@@ -116,17 +100,17 @@ Link: https://app.powerbi.com/groups/me/reports/c231066d-2eb3-4d28-aa39-a12077ac
 
 ![Staff Image](https://github.com/hasiburahman2016/Australia-Primary-Secondary-Education-data/blob/main/Images/Staff.jpg)
 
-### 13. Staff-to-Student Landscape
-- Total Students: **71.3M**
-- Total Staff: **7.5M**
-- Overall Student–Staff Ratio ≈ **9.5:1**
+- **Total Staff**: 7.5M  
+- **Total Students**: 71.3M  
+- **Student–Staff Ratio**: ~9.5  
+- **Teaching Staff**: 5.2M (~70%)  
+- **Admin/Clerical**: 1.8M  
+- **Female Staff**: 5.5M (73.6%)  
+- **Male Staff**: 2M (26.4%)  
 
-### 14. Staff by Job Function
-- Teaching Staff dominate: **5.2M (~70%)**
-- Administrative & Clerical: **1.8M**
-- Other roles (Support, Maintenance): minor shares
 
-### 15. Staff by Gender
-- Female staff: ~5.5M (**73.6%**)
-- Male staff: ~2M (**26.4%**)
--  Insight: Education workforce is heavily female-dominated
+## Conclusion
+
+Australia's school system has grown steadily over the last two decades. Public education remains the cornerstone, with private sectors growing modestly. Gender imbalances exist in secondary education, and staffing remains female-dominated. These trends offer critical insights for policymakers and educational stakeholders.
+
+---
