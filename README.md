@@ -4,7 +4,7 @@
 Link: https://app.powerbi.com/groups/me/reports/c231066d-2eb3-4d28-aa39-a12077ac86d6/565590584b80205a012b?experience=power-bi
 
 
-# 📊 Executive Summary: National Primary and Secondary School Data Analysis (2006–2024)
+# Executive Summary: National Primary and Secondary School Data Analysis (2006–2024)
 
 ---
 
@@ -48,11 +48,11 @@ Link: https://app.powerbi.com/groups/me/reports/c231066d-2eb3-4d28-aa39-a12077ac
 ## 4. Primary vs Secondary School Distribution
 - Across all states, **primary school enrollment is higher** than secondary.
 - Example: NSW has ~12.6M primary vs ~9.8M secondary students.
-- ➕ Implies a growing base of younger students that will flow into secondary soon.
+- Implies a growing base of younger students that will flow into secondary soon.
 
 ---
 
-## 🏛 School Sector Analysis
+## School Sector Analysis
 
 ![School Sector Image](https://github.com/hasiburahman2016/Australia-Primary-Secondary-Education-data/blob/main/Images/School%20Sector.jpg)
 
@@ -103,7 +103,7 @@ Link: https://app.powerbi.com/groups/me/reports/c231066d-2eb3-4d28-aa39-a12077ac
 ### 11. Full-time vs Part-time Students
 - Full-time students: **71M**
 - Part-time students: **338K**
-- ✅ The education system is overwhelmingly full-time focused (>99% of enrollments)
+- The education system is overwhelmingly full-time focused (>99% of enrollments)
 
 ### 12. Indigenous vs Non-Indigenous Students
 - Non-Indigenous: **67M**
