@@ -15,13 +15,13 @@ Link: https://app.powerbi.com/groups/me/reports/c231066d-2eb3-4d28-aa39-a12077ac
 - Gender distribution is balanced overall, but **secondary school shows a male skew**  
 - **Student–staff ratio is ~9.5:1**, with a predominantly female workforce  
 
-## Overview
+## 1. Overview
 
 ![Overview Image](https://github.com/hasiburahman2016/Australia-Primary-Secondary-Education-data/blob/main/Images/Overview.jpg)
 
 ---
 
-## 1. Student Enrollment Trends by State
+## Student Enrollment Trends by State
 
 - All states show steady growth over time  
 - **NSW** consistently leads in total enrollment  
@@ -30,11 +30,11 @@ Link: https://app.powerbi.com/groups/me/reports/c231066d-2eb3-4d28-aa39-a12077ac
 - **2010–2013**: Slower growth across all states  
 - **Post-2020**: Recovery and continued growth despite pandemic conditions 
 
-## School Sector Analysis
+## 2. School Sector Analysis
 
 ![School Sector Image](https://github.com/hasiburahman2016/Australia-Primary-Secondary-Education-data/blob/main/Images/School%20Sector.jpg)
 
-## 2. Sector-Wise Enrollment Trends
+## Sector-Wise Enrollment Trends
 
 | Sector      | 2006   | 2024   | Growth   | 2024 Share |
 |-------------|--------|--------|----------|-------------|
@@ -48,7 +48,7 @@ Link: https://app.powerbi.com/groups/me/reports/c231066d-2eb3-4d28-aa39-a12077ac
 
 ---
 
-## 3. Primary vs Secondary Distribution
+## Primary vs Secondary Distribution
 
 - Primary school enrollments are consistently higher  
 - Example (NSW):  
@@ -57,11 +57,11 @@ Link: https://app.powerbi.com/groups/me/reports/c231066d-2eb3-4d28-aa39-a12077ac
 - Implies a growing base of younger students entering the system  
 ---
 
-##  Student Gender Breakdown
+## 3. Student Gender Breakdown
 
 ![Student Gender Image](https://github.com/hasiburahman2016/Australia-Primary-Secondary-Education-data/blob/main/Images/Student%20Gender.jpg)
 
-## 4. Gender Distribution
+## Gender Distribution
 
 - **Total Males**: 36.4M  
 - **Total Females**: 34.9M  
@@ -77,11 +77,11 @@ Link: https://app.powerbi.com/groups/me/reports/c231066d-2eb3-4d28-aa39-a12077ac
 
 ---
 
-##  Enrollment Type & Equity
+## 4. Enrollment Type & Equity
 
 ![Student Image](https://github.com/hasiburahman2016/Australia-Primary-Secondary-Education-data/blob/main/Images/Students.jpg)
 
-## 5. Full-Time vs Part-Time Students
+## Full-Time vs Part-Time Students
 
 - **Full-Time**: 71M  
 - **Part-Time**: 338K  
@@ -89,14 +89,14 @@ Link: https://app.powerbi.com/groups/me/reports/c231066d-2eb3-4d28-aa39-a12077ac
 
 ---
 
-## 6. Indigenous vs Non-Indigenous Students
+## Indigenous vs Non-Indigenous Students
 
 - **Aboriginal Students**: 4M (~5.6%)  
 - **Non-Indigenous Students**: 67M  
 
 ---
 
-##  Staffing Overview
+## 5. Staffing Overview
 
 ![Staff Image](https://github.com/hasiburahman2016/Australia-Primary-Secondary-Education-data/blob/main/Images/Staff.jpg)
 
@@ -109,7 +109,7 @@ Link: https://app.powerbi.com/groups/me/reports/c231066d-2eb3-4d28-aa39-a12077ac
 - **Male Staff**: 2M (26.4%)  
 
 
-## Conclusion
+## 6. Conclusion
 
 Australia's school system has grown steadily over the last two decades. Public education remains the cornerstone, with private sectors growing modestly. Gender imbalances exist in secondary education, and staffing remains female-dominated. These trends offer critical insights for policymakers and educational stakeholders.
 
