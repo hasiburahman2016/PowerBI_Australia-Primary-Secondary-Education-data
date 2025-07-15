@@ -5,7 +5,7 @@ Link: https://app.powerbi.com/groups/me/reports/c231066d-2eb3-4d28-aa39-a12077ac
 
 
 # Executive Summary: National Primary and Secondary School Data Analysis (2006–2024)
-![Overview Image](https://github.com/hasiburahman2016/Australia-Primary-Secondary-Education-data/blob/main/Images/Cover page.jpg)
+![Cover_page Image](https://github.com/hasiburahman2016/Australia-Primary-Secondary-Education-data/blob/main/Images/Cover_page.jpg)
 
 ---
 ## Key Highlights
