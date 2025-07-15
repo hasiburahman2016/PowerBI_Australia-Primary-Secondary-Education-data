@@ -1,10 +1,11 @@
-# Australia-Primary-Secondary-Education-data-analysis
+# Australian Primary and Secondary School Data Analysis
 
 ## Power BI Dashboard Report:  
 Link: https://app.powerbi.com/groups/me/reports/c231066d-2eb3-4d28-aa39-a12077ac86d6/565590584b80205a012b?experience=power-bi
 
 
 # Executive Summary: National Primary and Secondary School Data Analysis (2006–2024)
+![Overview Image](https://github.com/hasiburahman2016/Australia-Primary-Secondary-Education-data/blob/main/Images/Cover page.jpg)
 
 ---
 ## Key Highlights
